@@ -3,7 +3,7 @@ layout: post
 title: Linux its fun
 ---
 
-![_config.yml]({{ site.baseurl }}/images/download.png)
+![_config.yml]({{ site.baseurl }}/images/jekyll-logo.png)
 <html>
   <body>
     <h2>/How to Google</h2>
